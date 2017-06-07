@@ -1,2 +1,1 @@
-
-The deployed as probably failed. Check the FAQ.
+This is a custom message for the `Overdue` status
